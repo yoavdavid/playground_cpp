@@ -1,0 +1,15 @@
+﻿  main.cpp
+E:\Programming\visual_studio_project\main\interviewbit\array_ex.h(101,23): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\visual_studio_project\main\interviewbit\array_ex.h(123,23): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\visual_studio_project\main\interviewbit\array_ex.h(178,23): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\visual_studio_project\main\interviewbit\array_ex.h(188,23): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\visual_studio_project\main\interviewbit\array_ex.h(207,16): warning C4244: 'return': conversion from '__int64' to 'double', possible loss of data
+E:\Programming\visual_studio_project\main\interviewbit\array_ex.h(361,23): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\visual_studio_project\main\interviewbit\array_ex.h(366,23): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\visual_studio_project\main\interviewbit\array_ex.h(407,23): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\visual_studio_project\main\interviewbit\array_ex.h(470,36): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\visual_studio_project\main\interviewbit\array_ex.h(480,13): warning C4018: '>': signed/unsigned mismatch
+E:\Programming\visual_studio_project\main\interviewbit\array_ex.h(488,36): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\visual_studio_project\main\interviewbit\array_ex.h(628,34): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\visual_studio_project\main\interviewbit\math_ex.h(22,23): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\visual_studio_project\main\interviewbit\math_ex.h(67,13): warning C4101: 'rmdigit': unreferenced local variable

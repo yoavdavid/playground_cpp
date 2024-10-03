@@ -1,0 +1,2 @@
+E:\Programming\visual_studio_project\data_structures\Debug\data_structures.exe
+E:\Programming\visual_studio_project\data_structures\Debug\data_structures.pdb

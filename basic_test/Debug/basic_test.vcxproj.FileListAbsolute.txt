@@ -1,0 +1,2 @@
+E:\Programming\visual_studio_project\basic_test\Debug\basic_test.exe
+E:\Programming\visual_studio_project\basic_test\Debug\basic_test.pdb

@@ -1,0 +1,17 @@
+﻿  main.cpp
+E:\Programming\visual_studio_project\basic_test\basic\array_excercises.h(101,23): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\visual_studio_project\basic_test\basic\array_excercises.h(123,23): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\visual_studio_project\basic_test\basic\array_excercises.h(178,23): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\visual_studio_project\basic_test\basic\array_excercises.h(188,23): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\visual_studio_project\basic_test\basic\array_excercises.h(207,16): warning C4244: 'return': conversion from '__int64' to 'double', possible loss of data
+E:\Programming\visual_studio_project\basic_test\basic\array_excercises.h(361,23): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\visual_studio_project\basic_test\basic\array_excercises.h(366,23): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\visual_studio_project\basic_test\basic\array_excercises.h(407,23): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\visual_studio_project\basic_test\basic\array_excercises.h(470,36): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\visual_studio_project\basic_test\basic\array_excercises.h(480,13): warning C4018: '>': signed/unsigned mismatch
+E:\Programming\visual_studio_project\basic_test\basic\array_excercises.h(488,36): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\visual_studio_project\basic_test\basic\array_excercises.h(628,34): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\visual_studio_project\basic_test\basic\math_exc.h(22,23): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\visual_studio_project\basic_test\basic\math_exc.h(67,13): warning C4101: 'rmdigit': unreferenced local variable
+E:\Programming\visual_studio_project\basic_test\stack_excercises.h(174,27): warning C4018: '<': signed/unsigned mismatch
+  basic_test.vcxproj -> E:\Programming\visual_studio_project\basic_test\Debug\basic_test.exe

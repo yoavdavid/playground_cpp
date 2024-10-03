@@ -1,0 +1,2 @@
+E:\Programming\visual_studio_project\main\Debug\cracking_the_coding_interview.exe
+E:\Programming\visual_studio_project\main\Debug\cracking_the_coding_interview.pdb
